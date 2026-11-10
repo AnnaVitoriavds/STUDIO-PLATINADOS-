@@ -1,0 +1,11 @@
+STUDIO PLATINADOS — SITE PREMIUM
+
+Abra index.html no navegador.
+Arquivos: index.html, styles.css, script.js, assets/rayane-perfil.png.
+
+FORMULÁRIO: preenche nome, WhatsApp, serviço, data, período e observações. O botão abre WhatsApp com uma mensagem pronta. O visitante ainda precisa enviar a mensagem. NÃO existe agenda online, confirmação automática, banco de dados ou armazenamento dos contatos. O Studio confirma a reserva manualmente.
+
+O número configurado é (61) 99546-4126; edite os links wa.me se precisar.
+As imagens ilustrativas são carregadas de URLs externas (Unsplash); substitua por fotos autorizadas de trabalhos reais antes de publicar. Confirme links sociais, telefone, endereço e procedimentos antes de publicar.
+
+Site responsivo em HTML, CSS e JavaScript, sem frameworks.
